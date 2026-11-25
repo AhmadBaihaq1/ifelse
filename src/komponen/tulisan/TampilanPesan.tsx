@@ -153,7 +153,7 @@ export function TampilanPesan({
             </div>
           )}
 
-          {/* ADEGAN 3: PERTANYAAN UTAMA */}
+          {/* ADEGAN 3: PERTANYAAN UTAMAA */}
           {adegan === "pertanyaan" && (
             <div className="space-y-4 sm:space-y-5">
               <p
